@@ -1,7 +1,7 @@
 ﻿Console.Clear();
-Console.Write("Введите число: ");
+Console.Write("Введите A: ");
 int A = int.Parse(Console.ReadLine());
-Console.Write("Введите число: ");
+Console.Write("Введите B: ");
 int B = int.Parse(Console.ReadLine());
 
 if(A>B)
